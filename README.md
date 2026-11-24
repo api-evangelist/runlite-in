@@ -1,4 +1,4 @@
-# runlite-in
+# RunLite
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,98 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-runlite-in is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://runlite.in/
+RunLite provides a backend service that enables AI‑generated websites to be instantly published, host contact forms, and route enquiries to email or WhatsApp. Targeted at freelance developers, agencies, and small business owners, it automates hosting, domain setup, and form handling, allowing AI tools like Claude, Cursor, and Windsurf to create live sites without manual dashboard work. The platform offers tiered pricing, custom domains, and reliable uptime, positioning itself as the missing backend for AI‑built websites.
+
+**Areas:** AI · Backend · Hosting · Forms · Automation · Company
+
+## RunLite on APIs.io
+
+Everything profiled for RunLite is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/runlite-in/](https://apis.io/providers/runlite-in/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [RunLite API](https://apis.io/apis/runlite-in/runlite-api/) — RunLite provides backend services for AI‑generated websites, including site deployment, custom domains, and form handling. Documentation is at…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [RunLite Domain Security](https://apis.io/security/runlite-in/runlite-in-domain-security/)
+- [RunLite Vulnerability Disclosure](https://apis.io/security/runlite-in/runlite-in-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [RunLite Plans Pricing](https://apis.io/plans/runlite-in/runlite-in-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://runlite.in/)
+- [Documentation](https://runlite.in/docs)
+- [Pricing](https://runlite.in/pricing)
+- [Security](https://runlite.in/security)
+- [Terms of service](https://runlite.in/terms)
+- [Privacy policy](https://runlite.in/privacy)
+
+## API Evangelist rating
+
+**Kin Score 25.8** — emerging · rubric 0.27.0 · scored 2026-11-24
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 9.5 |
+| Access clarity | 73.2 |
+
+**Agent readiness 21.8** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 23.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/runlite-in/](https://apis.io/providers/runlite-in/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for RunLite: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/runlite-in/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
